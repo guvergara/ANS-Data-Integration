@@ -72,8 +72,6 @@ Funcionalidades
 * API REST para busca de operadoras.
 * Interface web para consulta dos dados.
 
----
 
-## Objetivo
-
+Objetivo
 Demonstrar conhecimentos em coleta de dados, ETL, modelagem de banco de dados, desenvolvimento de APIs e construção de interfaces web utilizando tecnologias amplamente empregadas no mercado.
