@@ -10,7 +10,7 @@ Tarefa 3 - Scripts .sql que realizam:
 -estruturar_tabelas.sql: cria o database e as tabelas necessarias para a insercao dos dados no programa "importar_dados.sql"
 -importar_dados.sql: importa os dados presentes nos arquivos da pasta "Arquivos.csv utilizados" para as tabelas criadas anteriormente
 -busca_seletiva.sql: busca por informacoes especificas nas tabelas com os dados importados
-Requisitos para o funcionamento: MySQL 8, que executara os scrips da pasta "Queries SQL", e todos os arquivos presentes na pasta "Arquivos.csv utilizados". É importante ressaltar que no programa "importar_dados.sql" a querie esta puxando os arquivos da pasta Uploads do MySQL, portanto é necessario verificar se o caminho é o mesmo ou será necessário mudar.
+Requisitos para o funcionamento: MySQL 8, que executara os scrips da pasta "Queries SQL", e todos os arquivos presentes na pasta "Arquivos.csv utilizados". É importante ressaltar que no programa "importar_dados.sql" a querie esta puxando os arquivos da pasta Uploads do MySQL, portanto é necessario verificar se o caminho é o mesmo ou se será necessário mudar.
 
 Tarefa 4 - Possui 3 arquivos importantes:
 -Relatorio_cadop.csv: arquivo de onde as informações sobre as operadoras serão importadas
